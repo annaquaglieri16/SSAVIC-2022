@@ -70,7 +70,7 @@ name: intro
 
 ## Organiser of R-Ladies Melbourne since 2016
 
-.center[<img class="circle" src="figures/rldaies-melbourne.png" width="500px" height = "450px"/>]
+.center[<img class="circle" src="figures1/rldaies-melbourne.png" width="500px" height = "450px"/>]
 
 ---
 
@@ -89,7 +89,7 @@ I was curious about what other alternatives career I could do with my skills
 
 ---
 
-background-image: url(figures/eliiza-logo.png)
+background-image: url(figures1/eliiza-logo.png)
 background-position: 100% 0%
 background-size: 20%
 
@@ -103,12 +103,12 @@ background-size: 20%
 .pull-left[
 
 Claim processing for an insurance company
-<img class="circle" src="figures/example-project.png" width="600px" height = "350px"/>
+<img class="circle" src="figures1/example-project.png" width="600px" height = "350px"/>
 ]
 
 
 .pull-right[
-<img class="circle" src="figures/nib-project.png" width="600px" height = "350px"/>
+<img class="circle" src="figures1/nib-project.png" width="600px" height = "350px"/>
 
 ]
 
@@ -118,7 +118,7 @@ Claim processing for an insurance company
 
 ---
 
-background-image: url(figures/eliiza-logo.png)
+background-image: url(figures1/eliiza-logo.png)
 background-position: 100% 0%
 background-size: 20%
 
@@ -131,11 +131,11 @@ background-size: 20%
 **Working as a team**: I was never only by myself on a project - we needed to deliver a solution as a team, usually Data Scientist + ML Engineer
 
 
-.center[<img class="circle" src="figures/eliiza-structure.png" width="400px" height = "280px"/>]
+.center[<img class="circle" src="figures1/eliiza-structure.png" width="400px" height = "280px"/>]
 
 ---
 
-background-image: url(figures/eliiza-logo.png)
+background-image: url(figures1/eliiza-logo.png)
 background-position: 100% 0%
 background-size: 20%
 
@@ -150,7 +150,7 @@ background-size: 20%
 
 ---
 
-background-image: url(figures/eliiza-logo.png)
+background-image: url(figures1/eliiza-logo.png)
 background-position: 100% 0%
 background-size: 20%
 
@@ -196,7 +196,7 @@ class: center
 .center[<img class="circle" src="figures1/path3.1.png" width="800px" height = "350px"/>]
 
 ---
-background-image: url(figures/md-center.png)
+background-image: url(figures1/md-center.png)
 background-position: 100% 0%
 background-size: 20%
 
@@ -209,9 +209,8 @@ background-size: 20%
 .center[<img class="circle" src="figures1/md-team.png" width="650px" height = "400px"/>
 ]
 
-
 ---
-background-image: url(figures/md-center.png)
+background-image: url(figures1/md-center.png)
 background-position: 100% 0%
 background-size: 20%
 
@@ -222,7 +221,29 @@ background-size: 20%
 
 📙 **Learn and remain up to date with mass spectrometry data processing**: conferences, reading papers, talking to our in-house mass spec experts.   
 
---
+.pull-left[
+
+<img class="circle" src="figures1/minneapolis.png" width="600px" height = "350px"/>
+]
+
+
+.pull-right[
+<img class="circle" src="figures1/talk-to-angie.png" width="600px" height = "350px"/>
+
+]
+
+---
+background-image: url(figures1/md-center.png)
+background-position: 100% 0%
+background-size: 20%
+
+## What I do day to day  
+
+🏡💻 **Work in a fun multidisplinary team**: Work with a fun interdisciplinary team of scientists, developers, marketing, designers experts.
+
+
+📙 **Learn and remain up to date with mass spectrometry data processing**: conferences, reading papers, talking to our in-house mass spec experts.   
+
 
 💻 **Method and sofwtare development**: workflows (usually R/Python) to pre-process, analyse, visualise, interpret mass spectrometry data.   
 
@@ -238,9 +259,19 @@ background-size: 20%
 
 **BAU**: fix bugs; general sofware maintainance. 
 
---
 
-📙 Suggest reading: **"Being the inauguaral intern at a start-up"** https://bit.ly/AXBlog_1
+---
+background-image: url(figures1/md-center.png)
+background-position: 100% 0%
+background-size: 20%
+
+## "Being the inauguaral intern at a start-up"
+
+📙 Suggest reading blogpost from our first intern Arianna last summer https://bit.ly/AXBlog_1
+
+.center[<img class="circle" src="figures1/arianna.png" width="500px" height = "400px"/>
+]
+
 
 
 ---
@@ -282,8 +313,7 @@ name: whatme
 These slides were created using the `{xaringan}` 📦 by Yihui Xie (2021). xaringan: Presentation Ninja. R package version 0.22. https://CRAN.R-project.org/package=xaringan 
 
 
----
-# Any question?
+## Any question?
 
 You can fine me at:
 
